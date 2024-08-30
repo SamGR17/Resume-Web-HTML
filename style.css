@@ -1,0 +1,50 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 30pt;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11pt;
+}
+
+h2 {
+    color: darkorange;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bolder;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+li {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11pt;
+}
+
+span {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #666666;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+.aliDiv {
+    max-width: 625px;
+    margin: 20px auto;
+    margin-top: 10px;
+}
+
+.block {
+    width: 625px;
+    height: 7px;
+    border: 1px #00ab44;
+    background-color: #00ab44;
+    max-width: 625px;
+    margin: 20px auto;
+    margin-top: 10px;
+}
